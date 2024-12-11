@@ -5,6 +5,6 @@
   },
   "scripts": {
     "dev:nuxt": "nuxt dev",
-    "dev:vuepress": "npm run -w vuepress dev"
+    "dev:vuepress": "cd vuepress-example; npm run dev"
   }
 }
